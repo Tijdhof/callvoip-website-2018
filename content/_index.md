@@ -34,22 +34,22 @@ mogelijkheden:
         Een volledige maatwerk-oplossing voor uw situatie ligt bij ons op de
         plank: Hosted VoIP, apparatuur en internet. Met advies en begeleiding.
         Ons team staat u graag terzijde!
-      image: /images/hosted.jpg
-      link: /mogelijkheden/hosted-voip/
+      image: /images/logo-callvoip-dark.svg
+      link: /callvoiptelefonie/
       title: CallvoipTelefonie
     - content: >-
         Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
         een schat aan mogelijkheden en word verrast door een ongekend
         bedieningsgemak.
-      image: /images/behoud.jpg
-      link: /mogelijkheden/behoud-isdn-apparatuur/
+      image: /images/logo-simmple.svg
+      link: /simmpl/
       title: Simmpl
     - content: >-
         Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
         VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
         apparatuur Plug and Play.
-      image: /images/voip2go.jpg
-      link: /mogelijkheden/voipzondergedoe
+      image: /images/logo-callvoip-shop.svg
+      link: /callvoipshop/
       title: Callvoip.shop
   title: Ontdek de merken van Callvoip
 cta:
