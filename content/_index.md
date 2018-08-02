@@ -1,5 +1,5 @@
 ---
-title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
+title: VoIP telefonie voor het midden- en kleinbedrijf
 description: >-
   CallvoipTelefonie biedt professionele telefonieoplossingen. Maak ook kennis
   met onze moderne en zeer eenvoudig te bedienen online telefooncentrale.
@@ -11,7 +11,7 @@ hero:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
   subtitle: CallvoipTelefonie staat voor u klaar met 10 jaar ervaring.
-  title: '*VoIP* telefonie voor het midden- en kleinbedrijf'
+  title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
 usps:
   items:
     - content: >-
@@ -42,21 +42,21 @@ mogelijkheden:
         plank: Hosted VoIP, apparatuur en internet. Met advies en begeleiding.
         Ons team staat u graag terzijde!
       image: /images/logo-callvoip-dark.svg
-      link: /callvoiptelefonie/
+      link: /callvoiptelefonie
       title: CallvoipTelefonie
     - content: >-
         Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
         een schat aan mogelijkheden en word verrast door een ongekend
         bedieningsgemak.
       image: /images/logo-simmple.svg
-      link: /simmpl/
+      link: /simmpl
       title: Simmpl
     - content: >-
         Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
         VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
         apparatuur Plug and Play.
       image: /images/logo-callvoip-shop.svg
-      link: /callvoipshop/
+      link: callvoipshop
       title: Callvoip.shop
   title: Ontdek de merken van Callvoip
 cta:
