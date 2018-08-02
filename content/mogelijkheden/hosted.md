@@ -1,13 +1,14 @@
 ---
-title: Hosted VoIP
+title: CallvoipTelefonie
+description: CallvoipTelefonie
 draft: false
-slug: hosted-voip
+slug: callvoiptelefonie
 hero:
   image:
     large: /images/hero-hosted.jpg
     small: /images/hero-small.jpg
   subtitle: Maak gebruik van een telefooncentrale in de cloud!
-  title: Ontdek de mogelijkheden van **Hosted VoIP** telefonie
+  title: CallvoipTelefonie
 contentImage: /images/belplan-meldtekst.png
 cta:
   content: >-
