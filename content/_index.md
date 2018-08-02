@@ -1,18 +1,15 @@
 ---
-title: Stap over van ISDN op VoIP
+title: '*VoIP* telefonie voor het midden- en kleinbedrijf'
 description: Callvoip.nl
 layout: index
 type: page
 hero:
-  content: >-
-    VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
-    daarom vandaag nog over van ISDN op deze moderne en kostenbesparende
-    oplossing voor uw telefonie.
+  content: ''
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
-  subtitle: Laat u vrijblijvend adviseren!
-  title: Van ISDN naar **VoIP**
+  subtitle: CallvoipTelefonie staat voor u klaar met 10 jaar ervaring.
+  title: '*VoIP* telefonie voor het midden- en kleinbedrijf'
 usps:
   items:
     - content: >-
@@ -29,61 +26,32 @@ usps:
         van merken.
       icon: fa-phone
       title: Nummerbehoud /-aanvraag
-    - content: >-
-        Met meer dan **10 jaar ervaring** staat een deskundig team voor u klaar
-        voor een advies op maat of om al uw vragen over uw telefoniezaken te
-        beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
-        advies, daar staan wij om bekend.
-      icon: fa-user-alt
-      title: Deskundig team
-    - content: >-
-        U krijgt **zelf de centrale in beheer** en bent u niet meer, zoals met
-        ISDN, locatie gebonden. Bovendien is de centrale in no-time eenvoudig
-        uit te breiden met meer toestellen, gebruikers en/of functionaliteiten.
-      icon: fa-balance-scale
-      title: Schaalbaarheid en flexibiliteit
-    - content: >-
-        Met de aanschaf van een **VoIP-gateway** kunt u blijven bellen met uw
-        huidige apparatuur. Zo stapt u wel over op VoIP, maar scheelt dit weer
-        eenmalige aanschafkosten van nieuwe apparatuur.
-      icon: fa-laugh
-      title: Behoud van apparatuur
-    - content: >-
-        Internetverbindingen & VoIP-apparatuur zijn zeer belangrijk bij een
-        goede VoIP-oplossing. Ook deze kennis en producten hebben wij in huis.
-        Zo heeft u **één aanspreekpunt**.
-      icon: fa-building
-      title: Kennis van internetverbindingen
-  title: 'Een overstap kan ook simpel zijn. Wij bieden u:'
+  title: Telefonie kan ook leuk zijn!
 mogelijkheden:
-  content: >-
-    We willen het eigenlijk niet te lastig maken, maar er zijn drie
-    mogelijkheden als u overstapt van ISDN naar VoIP. Deze drie mogelijkheden
-    zijn hieronder beschreven. 
-
-    Geen idee wat voor u het beste is? Wij adviseren u graag!
+  content: Hoe kunnen wij u verder helpen?
   items:
     - content: >-
-        Met een Hosted VoIP oplossing verplaatst u de telefonie in de cloud.
-        Zo’n online centrale is gemakkelijk in gebruik, schaalbaar en voorzien
-        van veel professionele functionaliteiten.
+        Een volledige maatwerk-oplossing voor uw situatie ligt bij ons op de
+        plank: Hosted VoIP, apparatuur en internet. Met advies en begeleiding.
+        Ons team staat u graag terzijde!
       image: /images/hosted.jpg
       link: /mogelijkheden/hosted-voip/
-      title: Hosted VoIP
+      title: CallvoipTelefonie
     - content: >-
-        Een overstap van ISDN naar VoIP betekent niet meteen dat u allemaal
-        nieuwe toestellen moet aanschaffen. Met een VoIP gateway behoudt u uw
-        huidige apparatuur.
+        Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
+        een schat aan mogelijkheden en word verrast door een ongekend
+        bedieningsgemak.
       image: /images/behoud.jpg
       link: /mogelijkheden/behoud-isdn-apparatuur/
-      title: Behoud ISDN apparatuur
+      title: Simmpl
     - content: >-
-        Bent u op zoek naar een simpele en zeer betaalbare VoIP-oplossing? Wij
-        hebben de oplossing voor u: VoIP zonder gedoe! Wij ontzorgen u graag.
+        Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
+        VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
+        apparatuur Plug and Play.
       image: /images/voip2go.jpg
       link: /mogelijkheden/voipzondergedoe
-      title: VoIP zonder gedoe
-  title: Welke mogelijkheden zijn er?
+      title: Callvoip.shop
+  title: Ontdek de merken van Callvoip
 cta:
   content: >-
     Geen paniek! Wij hebben ervaring met alle branches. Wij komen graag in
