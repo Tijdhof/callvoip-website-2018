@@ -1,13 +1,14 @@
 ---
-title: Behoud ISDN apparatuur
+title: Simmpl
+description: Simmpl
 draft: false
-slug: behoud-isdn-apparatuur
+slug: simmpl
 hero:
   image:
     large: /images/photo-1526979272661-f2849f9fc0b7.jpg
     small: ''
   subtitle: Dankzij het gebruik van een VoIP gateway
-  title: Behoud **ISDN** apparatuur
+  title: Simmpl
 contentImage: /images/voipgateway.png
 cta:
   content: >-
