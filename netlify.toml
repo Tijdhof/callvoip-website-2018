@@ -2,10 +2,10 @@
   command = "npm run build:production"
   publish = "public"
 
-HUGO_VERSION = "0.40.3"
+HUGO_VERSION = "0.45.1"
 
 [context.production.environment]
-  HUGO_VERSION = "0.40.3"
+  HUGO_VERSION = "0.45.1"
 
 [context.deploy-preview]
   command = "npm run build:preview"
