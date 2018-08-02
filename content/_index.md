@@ -27,7 +27,7 @@ usps:
 
         Bent u al klant van CallvoipTelefonie? [Klik
         hier](https://www.callvoiptelefonie.nl/service/simmpl/telefooncentrale/)
-        voor service, support en contact
+        voor service, support en contact.
       icon: ''
       title: ''
     - content: '![null](/images/office-image.png)'
