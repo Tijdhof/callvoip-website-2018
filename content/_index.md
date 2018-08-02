@@ -15,10 +15,14 @@ hero:
 usps:
   items:
     - content: >-
+        CallvoipTelefonie voorziet professionele telefonie-oplossingen voor
+        kleine en grote bedrijven. 
+
+
         Een deskundig team met meer dan 10 jaar ervaring begeleidt u snel en
         doeltreffend naar een zorgeloze telefonie-oplossing. Ook voor uw
-        internetverbinding en apparatuur kunt u bij ons terecht. Meer
-        informatie?
+        \*\*internetverbinding\*\* en \*\*apparatuur\*\* kunt u bij ons terecht.
+        Meer informatie?
 
 
         Bent u al klant van CallvoipTelefonie? [Klik
