@@ -1,6 +1,8 @@
 ---
-title: '*VoIP* telefonie voor het midden- en kleinbedrijf'
-description: Callvoip.nl
+title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
+description: >-
+  CallvoipTelefonie biedt professionele telefonieoplossingen. Maak ook kennis
+  met onze moderne en zeer eenvoudig te bedienen online telefooncentrale.
 layout: index
 type: page
 hero:
@@ -13,15 +15,23 @@ hero:
 usps:
   items:
     - content: >-
+
+
+
+
         Een deskundig team met meer dan 10 jaar ervaring begeleidt u snel en
         doeltreffend naar een zorgeloze telefonie-oplossing. Ook voor uw
         internetverbinding en apparatuur kunt u bij ons terecht. Meer
         informatie?
-      icon: fa-phone
-      title: ''
-    - content: '![](/images/office-image.png)'
       icon: ''
       title: ''
+    - content: '![null](/images/office-image.png)'
+      icon: ''
+      title: ''
+    - content: >-
+        Bent u al klant van CallvoipTelefonie? [Klik
+        hier](https://www.callvoiptelefonie.nl/service/simmpl/telefooncentrale/)
+        voor service, support en contact
   title: Telefonie kan ook leuk zijn!
 mogelijkheden:
   content: Hoe kunnen wij u verder helpen?
