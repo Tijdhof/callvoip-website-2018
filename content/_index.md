@@ -10,7 +10,7 @@ hero:
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
-  subtitle: CallvoipTelefonie staat voor u klaar met 10 jaar ervaring.
+  subtitle: Callvoip staat voor u klaar met 10 jaar ervaring.
   title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
 usps:
   items:
