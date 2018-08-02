@@ -13,19 +13,15 @@ hero:
 usps:
   items:
     - content: >-
-        Bellen over internet is een stuk goedkoper dan via ISDN. U krijgt meer
-        mogelijkheden tegen veel lagere kosten. U heeft de **keuzevrijheid** of
-        u uitbelt tegen een vast tarief per minuut of voor een vast bedrag per
-        maand.
-      icon: fa-hand-holding-usd
-      title: Fikse kostenbesparing
-    - content: >-
-        U kunt gewoon uw oude telefoonnummers behouden en verhuizen. Doordat we
-        u van a tot z begeleiden én met u meedenken in het hele proces
-        garanderen we u een **naadloze overstap**, zodat uw klanten hier niets
-        van merken.
+        Een deskundig team met meer dan 10 jaar ervaring begeleidt u snel en
+        doeltreffend naar een zorgeloze telefonie-oplossing. Ook voor uw
+        internetverbinding en apparatuur kunt u bij ons terecht. Meer
+        informatie?
       icon: fa-phone
-      title: Nummerbehoud /-aanvraag
+      title: ''
+    - content: '![](/images/office-image.png)'
+      icon: ''
+      title: ''
   title: Telefonie kan ook leuk zijn!
 mogelijkheden:
   content: Hoe kunnen wij u verder helpen?
@@ -54,13 +50,14 @@ mogelijkheden:
   title: Ontdek de merken van Callvoip
 cta:
   content: >-
-    Geen paniek! Wij hebben ervaring met alle branches. Wij komen graag in
-    contact met u om uw wensen te beluisteren en de mogelijkheden te bespreken.
+    Indien u een probleem heeft met de telefonie, neem dan contact met ons op
+    via telefoon, mail of chat. We staan voor u klaar!
 
-    Stuur een e-mail naar <mailto:offerte@isdn2voip.nl>, bel [050 8200
-    500](tel:+31508200500) of vul het formulier in bovenaan deze pagina .
-  image: /images/branches.jpg
-  title: Staat uw branche er niet tussen?
+    Bekijk hier de [service
+    meldingen](https://www.callvoiptelefonie.nl/service/simmpl/telefooncentrale/)
+    of bel [050 8200 500](tel:+31508200500).
+  image: /images/storing.jpg
+  title: Melding doorgeven
 links:
   - link: 'https://www.callvoiptelefonie.nl/mijncallvoip/'
     title: Alle online formulieren voor CallvoipTelefonie
