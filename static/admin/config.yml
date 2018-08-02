@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: frankspin89/isdn2voipwebsite
+  repo: frankspin89/callvoipwebsite
   branch: master
 media_folder: "static/images/"
 public_folder: "/images/"
@@ -273,4 +273,15 @@ collections:
           - label: "Content"
             name: "content"
             widget: "markdown"
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        fields:
+          - label: "Title"
+            name: 'title'
+            widget: 'string'
+          - label: "Link"
+            name: 'link'
+            widget: 'string'
+
       
