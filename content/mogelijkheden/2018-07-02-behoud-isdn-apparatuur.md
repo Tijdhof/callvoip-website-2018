@@ -5,7 +5,7 @@ draft: false
 slug: simmpl
 hero:
   image:
-    large: /images/photo-1526979272661-f2849f9fc0b7.jpg
+    large: /images/banner-simmpl.png
     small: ''
   subtitle: Dankzij het gebruik van een VoIP gateway
   title: Simmpl
