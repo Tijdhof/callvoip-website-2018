@@ -22,7 +22,7 @@ cta:
     Een beeld zegt meer dan duizend woorden, oftewel een rondleiding in onze
     **demo-omgeving** behoort ook tot de mogelijkheden.
   image: /images/geinteresseerd.jpg
-  title: Geïnteresseerd?
+  title: Geïnteresseerd in de Simmpl telefooncentrale?
 ---
 Simmpl is de telefooncentrale van CallvoipTelefonie. Geen ingewikkelde centrales meer, alles in de cloud. Enkele kenmerken van de Simmpl telefooncentrale:
 
