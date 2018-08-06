@@ -9,7 +9,7 @@ hero:
     small: ''
   subtitle: Kracht en gebruiksgemak zonder compromissen
   title: Simmpl
-contentImage: /images/logo-simmple.svg
+contentImage: /images/belplan-meldtekst.png
 cta:
   content: >-
     Neem contact met ons op via <mailto:callvoip@callvoip.nl>, bel naar [050 820
@@ -24,7 +24,7 @@ cta:
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd?
 ---
-Simmpl is de telefooncentrale van CallvoipTelefonie. Enkele kenmerken:
+Simmpl is de telefooncentrale van CallvoipTelefonie. Geen ingewikkelde centrales meer, alles in de cloud. Enkele kenmerken van de Simmpl telefooncentrale:
 
 * eenvoudig te bedienen
 * overzichtelijke interface
