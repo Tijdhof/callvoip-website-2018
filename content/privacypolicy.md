@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: Privacyverklaring Callvoip.nl / TijdhofConsulting
 draft: false
 slug: privacy-policy
 layout: default
@@ -8,7 +9,7 @@ hero:
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
-  subtitle: Privacyverklaring ISDN2VoIP / Tijdhof Consulting
+  subtitle: Privacyverklaring Callvoip.nl / Tijdhof Consulting
   title: Uw privacy is belangrijk
 ---
 # Privacyverklaring
