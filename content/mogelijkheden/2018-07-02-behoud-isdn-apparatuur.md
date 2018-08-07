@@ -33,7 +33,7 @@ Simmpl is de telefooncentrale van CallvoipTelefonie. Geen ingewikkelde centrales
 
 Met Simmpl krijgt u niet alleen de meest **gebruiksvriendelijke** telefooncentrale, maar ook de meest **moderne**! Daarnaast is de telefooncentrale nog steeds dagelijks in ontwikkeling en worden er constant nieuwe functionaliteiten toegevoegd. Wij gebruiken uw feedback hiervoor!
 
-U vraagt zich af welke functionaliteiten onze centrale heeft? Hier links ziet u al een rij met functies staan, maar dat is niet alles. Zo kunt u ook kiezen voor:
+U vraagt zich af welke functionaliteiten onze centrale heeft? Hier links ziet u al enkele functionaliteiten staan, maar dat is niet alles. Zo beschikt de online telefooncentrale ook over:
 
 * beveiligde gesprekken (SRTP)
 * mobiele app (Qaller)
