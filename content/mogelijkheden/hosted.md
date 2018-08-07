@@ -4,7 +4,7 @@ description: >-
   Wij zijn CallvoipTelefonie, VoIP-provider voor de zakelijke markt. Wij
   voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven.
 draft: false
-slug: callvoiptelefonie
+url: callvoiptelefonie
 hero:
   image:
     large: /images/hero-hosted.jpg

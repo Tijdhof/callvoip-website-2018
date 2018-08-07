@@ -2,7 +2,7 @@
 title: Simmpl
 description: 'Uw zakelijke telefonie, maar dan modern en volledig op maat. '
 draft: false
-slug: simmpl
+url: simmpl
 hero:
   image:
     large: /images/banner-simmpl.png
