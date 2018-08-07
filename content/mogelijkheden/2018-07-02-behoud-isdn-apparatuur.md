@@ -9,7 +9,7 @@ hero:
     small: ''
   subtitle: Kracht en gebruiksgemak zonder compromissen
   title: Simmpl
-contentImage: /images/callvoip-functionaliteiten.png
+contentImage: /images/belplan-meldtekst.png
 cta:
   content: >-
     Neem contact met ons op via <mailto:callvoip@callvoip.nl>, bel naar [050 820
