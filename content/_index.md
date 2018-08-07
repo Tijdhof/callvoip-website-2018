@@ -1,8 +1,8 @@
 ---
 title: VoIP telefonie voor het midden- en kleinbedrijf
 description: >-
-  CallvoipTelefonie biedt professionele telefonieoplossingen. Maak ook kennis
-  met onze moderne en zeer eenvoudig te bedienen online telefooncentrale.
+  Callvoip biedt professionele telefonieoplossingen. Maak ook kennis met onze
+  moderne en zeer eenvoudig te bedienen online telefooncentrale.
 layout: index
 type: page
 hero:
