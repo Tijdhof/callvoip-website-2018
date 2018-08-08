@@ -44,7 +44,6 @@ mogelijkheden:
       image: /images/logo-callvoip-dark.svg
       link: callvoiptelefonie
       title: CallvoipTelefonie
-      button: Ontdek CallvoipTelefonie
     - content: >-
         Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
         een schat aan mogelijkheden en word verrast door een ongekend
@@ -52,7 +51,6 @@ mogelijkheden:
       image: /images/logo-simmple.svg
       link: simmpl
       title: Simmpl
-      button: Ontdek Simmpl
     - content: >-
         Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
         VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
@@ -60,8 +58,6 @@ mogelijkheden:
       image: /images/logo-callvoip-shop.svg
       link: callvoipshop
       title: Callvoip.shop
-      button: Ontdek Callvoip.shop
-      
   title: Ontdek de merken van Callvoip
 cta:
   content: >-
@@ -70,7 +66,7 @@ cta:
 
     Bekijk hier de [service
     meldingen](https://www.callvoiptelefonie.nl/service/simmpl/telefooncentrale/)
-    of bel [050 8200 500](tel:+31508200500).
+    of bel [050 820 0000](tel:+31508200000).
   image: /images/storing.jpg
   title: Melding doorgeven
 links:
