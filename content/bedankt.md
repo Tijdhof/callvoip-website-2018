@@ -1,5 +1,6 @@
 ---
 title: Aanvraag verzonden
+description: Aanvraag verzonden
 draft: false
 slug: aanvraag-verzonden
 layout: default
@@ -11,4 +12,4 @@ hero:
   subtitle: Binnen 1 werkdag nemen wij contact met u op!
   title: Aanvraag verzonden
 ---
-Kunt u niet wachten? Bel dan [050 8200 500](tel:+31508200500).
+Kunt u niet wachten? Bel dan [050 820 00 00](tel:+31508200000).
