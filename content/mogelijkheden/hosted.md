@@ -39,4 +39,4 @@ Met vriendelijke groet,
 
 _Robert, Marieke, Bauke, Herman, Milan, Remco, Sander, Lynn, Patricia & Arienne._
 
-<a href="#" class="btn btn-primary">Button</a>
+<a href="https://www.callvoiptelefonie.nl/hosted-voip" class="btn btn-primary">Bekijk CallvoipTelefonie</a>
