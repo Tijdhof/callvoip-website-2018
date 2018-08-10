@@ -259,6 +259,9 @@ collections:
               - label: "Link"
                 name: 'link'
                 widget: 'string'
+              - label: "Button"
+                name: "button"
+                widget: 'string'
       - label: "Call to Action"
         name: "cta"
         widget: "object"

@@ -44,6 +44,7 @@ mogelijkheden:
       image: /images/logo-callvoip-dark.svg
       link: callvoiptelefonie
       title: CallvoipTelefonie
+      button: Ontdek CallvoipTelefonie
     - content: >-
         Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
         een schat aan mogelijkheden en word verrast door een ongekend
@@ -51,6 +52,7 @@ mogelijkheden:
       image: /images/logo-simmple.svg
       link: simmpl
       title: Simmpl
+      button: Ontdek Simmpl
     - content: >-
         Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
         VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
@@ -58,6 +60,7 @@ mogelijkheden:
       image: /images/logo-callvoip-shop.svg
       link: callvoipshop
       title: Callvoip.shop
+      button: Ontdek Callvoip.shop
   title: Ontdek de merken van Callvoip
 cta:
   content: >-
