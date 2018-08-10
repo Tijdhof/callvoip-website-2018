@@ -42,3 +42,5 @@ U vraagt zich af welke functionaliteiten onze centrale heeft? Hier rechts ziet u
 * receptiemodule
 * geavanceerde statistieken
 * vast mobiel integratie (fixed mobile)
+
+<a href="#" class="btn btn-primary">Button</a>
