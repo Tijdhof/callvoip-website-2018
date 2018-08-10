@@ -11,7 +11,7 @@ hero:
     small: ''
   subtitle: Maak gebruik van een telefooncentrale in de cloud!
   title: CallvoipTelefonie
-contentImage: /images/callvoip-callvoiptelefonie.jpg
+contentImage: /images/c2d-googlepost.png
 cta:
   content: >-
     Neem contact met ons op via <mailto:callvoip@callvoip.nl>, bel naar [050 820
@@ -25,6 +25,9 @@ cta:
     **demo-omgeving** behoort ook tot de mogelijkheden.
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd?
+form:
+  subtitle: Binnen 24 uur bespreken wij met u de mogelijkheden!
+  title: Geinteresseerd in de mogelijkheden van CallvoipTelefonie?
 ---
 CallvoipTelefonie is een VoIP-provider voor de zakelijke markt. CallvoipTelefonie voorziet professionele telefonie-oplossingen voor kleine en grote bedrijven. Het blijft niet alleen bij de telefonie, zo leveren wij ook **internetverbindingen** en **apparatuur** die nodig zijn voor de beste telefonieoplossing. Zo heeft u één aanspreekpunt.
 
