@@ -35,3 +35,5 @@ Heeft u dus een vraag, schroom dan niet om contact met ons op te nemen.
 Met vriendelijke groet,
 
 _Robert, Marieke, Bauke, Herman, Milan, Remco, Sander, Lynn, Patricia & Arienne._
+
+<a href="#" class="btn btn-primary">Button</a>
