@@ -6372,6 +6372,20 @@ html {
       padding-top: 6rem !important;
       min-height: 800px; } }
 
+.overlay-gray-small {
+  min-height: 300px;
+  padding-bottom: 4rem;
+  padding-top: 8rem !important; }
+  @media (min-width: 576px) {
+    .overlay-gray-small {
+      align-items: center;
+      padding-top: 8rem !important; } }
+  @media (min-width: 768px) {
+    .overlay-gray-small {
+      align-items: center;
+      padding-top: 6rem !important;
+      min-height: 400px; } }
+
 .hidden {
   display: none;
   height: 0;

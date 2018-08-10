@@ -1,6 +1,6 @@
 baseURL: "https://confident-shirley-65c512.netlify.com/"
 languageCode: "nl-nl"
-title: "ISDN2VOIP"
+title: "Callvoip"
 theme: "isdn2voip"
 params:
   og_image: 

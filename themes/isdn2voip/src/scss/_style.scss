@@ -32,6 +32,21 @@ body {
     }
 }
 
+.overlay-gray-small {
+    min-height: 300px;
+    padding-bottom: 4rem;
+    padding-top: 8rem !important;
+    @include media-breakpoint-up(sm) {
+        align-items: center;
+        padding-top: 8rem !important;
+    }
+    @include media-breakpoint-up(md) {
+        align-items: center;
+        padding-top: 6rem !important;
+        min-height: 400px;
+    }
+}
+
 .hidden {
     display: none;
     height: 0;

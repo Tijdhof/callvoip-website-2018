@@ -19,8 +19,13 @@
         </div>
         <div class="col-md-6">
             <div class="bg-green text-white p-4 pt-5 rounded">
+                {{ if .Params.form.title}}
+                <h4 class="f4">{{.Params.form.title}}</h4>
+                <p>{{.Params.form.subtitle}}</p>
+                {{ else }}
                 <h4 class="f4">Gratis persoonlijk advies</h4>
                 <p>Binnen 24 uur een advies op maat</p>
+                {{ end }}
                 {{ partial "form" . }}
             </div>
         </div>

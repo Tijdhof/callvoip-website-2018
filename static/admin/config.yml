@@ -129,6 +129,17 @@ collections:
           - label: "Content"
             name: "content"
             widget: "markdown"
+            - label: "Hero"
+      - label: "Formulier"
+        name: "form"
+        widget: "object"
+        fields: 
+          - label: "Title" 
+            name: "title"
+            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "string"
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "content" # The path to the folder where the documents are stored
