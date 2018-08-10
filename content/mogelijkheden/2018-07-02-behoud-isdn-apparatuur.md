@@ -24,8 +24,8 @@ cta:
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd in de Simmpl telefooncentrale?
 form:
-  subtitle: test
-  title: test
+  subtitle: Binnen 24 uur een advies op maat!
+  title: Geïnteresseerd in Simmpl?
 ---
 Simmpl is de telefooncentrale van CallvoipTelefonie. Geen ingewikkelde centrales meer, alles in de cloud. Enkele kenmerken van de Simmpl telefooncentrale:
 
@@ -46,4 +46,4 @@ U vraagt zich af welke functionaliteiten onze centrale heeft? Hier rechts ziet u
 * geavanceerde statistieken
 * vast mobiel integratie (fixed mobile)
 
-<a href="#" class="btn btn-primary">Button</a>
+<a href="https://simmpl.nl/" class="btn btn-primary">Bekijk Simmpl</a>
