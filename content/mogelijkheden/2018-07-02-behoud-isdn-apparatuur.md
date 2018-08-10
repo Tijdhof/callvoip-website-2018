@@ -23,6 +23,9 @@ cta:
     **demo-omgeving** behoort ook tot de mogelijkheden.
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd in de Simmpl telefooncentrale?
+form:
+  subtitle: test
+  title: test
 ---
 Simmpl is de telefooncentrale van CallvoipTelefonie. Geen ingewikkelde centrales meer, alles in de cloud. Enkele kenmerken van de Simmpl telefooncentrale:
 
