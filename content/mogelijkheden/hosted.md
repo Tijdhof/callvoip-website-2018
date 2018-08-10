@@ -11,7 +11,7 @@ hero:
     small: ''
   subtitle: Maak gebruik van een telefooncentrale in de cloud!
   title: CallvoipTelefonie
-contentImage: /images/c2d-googlepost.png
+contentImage: /images/callvoip-c2d.png
 cta:
   content: >-
     Neem contact met ons op via <mailto:callvoip@callvoip.nl>, bel naar [050 820
