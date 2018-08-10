@@ -5,7 +5,7 @@ draft: false
 url: simmpl
 hero:
   image:
-    large: /images/banner-simmpl.png
+    large: /images/banner-callvoip2.png
     small: ''
   subtitle: Kracht en gebruiksgemak zonder compromissen
   title: Simmpl
