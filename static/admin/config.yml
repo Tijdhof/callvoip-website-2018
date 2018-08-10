@@ -129,7 +129,6 @@ collections:
           - label: "Content"
             name: "content"
             widget: "markdown"
-            - label: "Hero"
       - label: "Formulier"
         name: "form"
         widget: "object"
