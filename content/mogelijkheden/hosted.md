@@ -27,7 +27,7 @@ cta:
   title: Geïnteresseerd?
 form:
   subtitle: Binnen 24 uur bespreken wij met u de mogelijkheden!
-  title: Geinteresseerd in de mogelijkheden van CallvoipTelefonie?
+  title: Geïnteresseerd in de mogelijkheden van CallvoipTelefonie?
 ---
 CallvoipTelefonie is een VoIP-provider voor de zakelijke markt. CallvoipTelefonie voorziet professionele telefonie-oplossingen voor kleine en grote bedrijven. Het blijft niet alleen bij de telefonie, zo leveren wij ook **internetverbindingen** en **apparatuur** die nodig zijn voor de beste telefonieoplossing. Zo heeft u één aanspreekpunt.
 
