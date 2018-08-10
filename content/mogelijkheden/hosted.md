@@ -7,7 +7,7 @@ draft: false
 url: callvoiptelefonie
 hero:
   image:
-    large: /images/hero-hosted.jpg
+    large: /images/banner-callvoip1.png
     small: ''
   subtitle: Maak gebruik van een telefooncentrale in de cloud!
   title: CallvoipTelefonie
