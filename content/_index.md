@@ -8,7 +8,7 @@ type: page
 hero:
   content: ''
   image:
-    large: /images/hero.jpg
+    large: /images/_mg_9006.jpg
     small: /images/hero-small.jpg
   subtitle: Callvoip staat voor u klaar met 10 jaar ervaring.
   title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
@@ -37,30 +37,30 @@ usps:
 mogelijkheden:
   content: Hoe kunnen wij u verder helpen?
   items:
-    - content: >-
+    - button: Ontdek CallvoipTelefonie
+      content: >-
         Een volledige maatwerk-oplossing voor uw situatie ligt bij ons op de
         plank: Hosted VoIP, apparatuur en internet. Met advies en begeleiding.
         Ons team staat u graag terzijde!
       image: /images/logo-callvoip-dark.svg
       link: callvoiptelefonie
       title: CallvoipTelefonie
-      button: Ontdek CallvoipTelefonie
-    - content: >-
+    - button: Ontdek Simmpl
+      content: >-
         Maak uw telefonie Simmpl met de eenvoudigste telefooncentrale – ontdek
         een schat aan mogelijkheden en word verrast door een ongekend
         bedieningsgemak.
       image: /images/logo-simmple.svg
       link: simmpl
       title: Simmpl
-      button: Ontdek Simmpl
-    - content: >-
+    - button: Ontdek Callvoip.shop
+      content: >-
         Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
         VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de
         apparatuur Plug and Play.
       image: /images/logo-callvoip-shop.svg
       link: callvoipshop
       title: Callvoip.shop
-      button: Ontdek Callvoip.shop
   title: Ontdek de merken van Callvoip
 cta:
   content: >-
