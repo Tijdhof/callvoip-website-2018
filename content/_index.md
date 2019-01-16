@@ -8,7 +8,7 @@ type: page
 hero:
   content: ''
   image:
-    large: /images/_mg_9006.jpg
+    large: /images/logo-bord-breed.jpg
     small: /images/hero-small.jpg
   subtitle: Callvoip staat voor u klaar met 10 jaar ervaring.
   title: '**VoIP** telefonie voor het midden- en kleinbedrijf'
